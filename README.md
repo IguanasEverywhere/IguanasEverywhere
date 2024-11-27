@@ -30,8 +30,16 @@ Welcome to my Github Portfolio!
 <img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png" height="48" width="48" >
 <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" height="48" width="48" >
 </p>
-
+<h2>Selected Projects</h2>
+<section align="center">
+<h4><a href="https://github.com/IguanasEverywhere/collab-organizer">PianOrganizer</a></h4>
+<p></p>An application for organizing collaborative pianist assignments in a university setting:</p>
+  
 [![Watch the video](https://img.youtube.com/vi/-QYABX07N_0/0.jpg)](https://www.youtube.com/watch?v=-QYABX07N_0)
 
-
+<h4><a href="https://github.com/makeitMVPadmin/Content">CommitAI</a></h4>
+<p></p>Developed as part of the team at MakeItMVP - an app that uses AI to generate social media announcements:</p>
+  
+[![Watch the video](https://img.youtube.com/vi/jKlw0wYHEU4/0.jpg)](https://www.youtube.com/watch?v=jKlw0wYHEU4)
+</section>
 
